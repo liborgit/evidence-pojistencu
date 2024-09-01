@@ -1,4 +1,4 @@
-from src.pojistenec import Pojistenec
+from pojistenec import Pojistenec
 from spravce_pojistencu import SpravcePojistencu
 
 class UzivatelskeRozhrani:

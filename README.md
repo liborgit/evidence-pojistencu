@@ -21,7 +21,7 @@ Tento projekt slouží k evidenci pojištěnců. Umožňuje přidávat nové poj
     ```
 2. **Přejděte do adresáře projektu**:
     ```bash
-    cd evidence-pojistencu/src
+    cd evidence-pojistencu
     ```
 
 ### Spuštění programu

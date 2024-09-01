@@ -17,7 +17,7 @@ Tento projekt slouží k evidenci pojištěnců. Umožňuje přidávat nové poj
 ### Instalace
 1. **Klonujte repozitář**:
     ```bash
-    git clone https://github.com/uzivatel/evidence-pojistencu.git
+    git clone https://github.com/liborgit/evidence-pojistencu.git
     ```
 2. **Přejděte do adresáře projektu**:
     ```bash
